@@ -1,0 +1,27 @@
+{
+  "name": "robert1210.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robert1211/robert1210.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robert1211/robert1210.github.io/issues"
+  },
+  "homepage": "https://github.com/Robert1211/robert1210.github.io#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.10.0",
+    "parcel": "^2.10.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  }
+}
