@@ -1,5 +1,6 @@
 //$primary: blue;
 //$dark: rgb(177, 61, 7);
+//@import '../node_modules/bootstrap/scss/bootstrap.scss';
 
 .section {
     width: 100%;
@@ -7,11 +8,11 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #fff;
+    color: #ccd0df;
 }
 
 .section:nth-child(odd) {
-    background-color: #5014c9
+    background-color: #bebbc4
 }
 
 .section:nth-child(even) {
